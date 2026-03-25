@@ -96,7 +96,3 @@ Alternatively, manually spin them up:
 3. **Analytics Brain**: `src/advanced_features.py` calculates custom ML predictions while `src/backtester.py` calculates risk-adjusted algorithm success metrics properly.
 4. **Data Seed Engine**: The `fetch_tickers.py` massive crawler cleanly manages scraping the global `ftp.nasdaqtrader.com` and `EQUITY_L.csv` from the NSE safely.
 
----
-
-## 📜 License
-This project is completely open source under the MIT License properly. You are legally cleared to distribute, host, and modify the application securely.
